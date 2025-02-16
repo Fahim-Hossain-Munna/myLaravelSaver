@@ -1,10 +1,10 @@
-###1st step 
+### 1st step 
 
 ```
 <div class="modal fade" id="createCity" style="overflow: hidden"> // modal parent div contimize (add overflow hidden(optional))
 ```
 
-###2nd step
+### 2nd step
 
 ```
 $(document).ready(function() {
