@@ -50,4 +50,12 @@ username: admin
 password: +8jR137JkBTqr1ZRo2ZDA
 Website: https://www.supraskills.io/
 ```
+### MightyTaxi Booking
+
+```bash
+Website  = https://mightytaxi.paintingservicesg.org
+database = painqpaz_mightytaxi
+username = painqpaz_mightytaxi
+password = 74@@MVA!+8OR
+```
 
